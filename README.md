@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/RichardBorgesArup/RichardBorges/_apis/build/status/richardborges.pipelines-java?branchName=master)](https://dev.azure.com/RichardBorgesArup/RichardBorges/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
